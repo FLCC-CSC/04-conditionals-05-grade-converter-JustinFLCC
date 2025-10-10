@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME:Justin Munz
+# DATE:10/10/2025
+# BRIEF DESCRIPTION:A Program that will output a different grade depending on your numbered input  
 
 
 
